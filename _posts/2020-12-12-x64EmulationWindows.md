@@ -2,7 +2,7 @@
 title: x64 emulation has come to Windows on arm insiders
 excerpt: Only 10 days late
 author: luke
-layout: post
+layout: single
 tags: Windows Microsoft
 ---
 

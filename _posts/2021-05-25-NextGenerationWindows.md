@@ -2,7 +2,7 @@
 title: Microsoft Teases The Next Generation Of Windows
 date: 2021-05-25
 author: Luke
-layout: post
+layout: single
 excerpt: The next generation of Windows is coming
 ---
 

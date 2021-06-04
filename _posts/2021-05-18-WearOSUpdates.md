@@ -2,7 +2,7 @@
 author: Luke C
 title: Google announces a new update for Wear OS
 excerpt: Google is making the most of it's purchase of fitbit by partnering with Samsung
-layout: post
+layout: single
 date: 2021-05-18
 ---
 

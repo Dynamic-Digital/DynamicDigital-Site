@@ -3,7 +3,7 @@ date: 2020-11-10
 title: EA Play joins Xbox Game Pass Ultimate
 excerpt: EA Play is now included in Xbox Game Pass Ultimate
 author: Luke
-layout: post
+layout: single
 tags: Gaming Xbox Microsoft EA
 ---
 

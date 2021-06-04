@@ -2,7 +2,7 @@
 title: Google has now revealed Android 12
 author: Luke C
 excerpt: Android 12 is bringing some major changes to the user experience
-layout: post
+layout: single
 tags: Google
 ---
 

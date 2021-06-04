@@ -2,7 +2,7 @@
 title: EA Play is coming to Xbox Game Pass Ultimate on November 10th
 author: Luke
 excerpt: EA Play joins XGP Ultimate on November 10th 2020
-layout: post
+layout: single
 date: 2020-11-07
 tags: Gaming Xbox Microsoft EA
 ---

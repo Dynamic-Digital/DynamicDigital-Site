@@ -1,6 +1,6 @@
 ---
 title: 20 Bethesda games are headed to Game Pass
-layout: post
+layout: single
 author: Luke C
 excerpt: More Bethesda games are coming to Game Pass
 ---

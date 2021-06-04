@@ -2,7 +2,7 @@
 title: Solarwinds has been hacked
 excerpt: Solarwinds, a leader in network infrastructure, has been hacked
 author: luke
-layout: post
+layout: single
 tags: Technology Hacking
 ---
 

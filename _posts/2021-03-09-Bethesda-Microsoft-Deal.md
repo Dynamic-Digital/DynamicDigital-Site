@@ -1,6 +1,6 @@
 ---
 title: Microsoft's purchase of Bethesda's parent company Zenimax has been approved
-layout: post
+layout: single
 author: Luke C
 excerpt: Microsoft has now purchased Bethesda
 ---

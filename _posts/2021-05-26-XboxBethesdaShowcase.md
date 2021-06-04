@@ -1,7 +1,7 @@
 ---
 title: Xbox And Bethesda Are Having A Joint Games Showcase
 excerpt: It's all being revealed on June 13th
-layout: post
+layout: single
 author: Luke
 date: 2021-05-26
 tags: Gaming Microsoft Bethesda Xbox E3

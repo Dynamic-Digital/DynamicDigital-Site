@@ -1,6 +1,6 @@
 ---
 title: Microsoft and Bethesda Roundtable event roundup
-layout: post
+layout: single
 author: Luke C
 excerpt: Microsoft and Bethesda have officially started to plan what they will do together
 ---

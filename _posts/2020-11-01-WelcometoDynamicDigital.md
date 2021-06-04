@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Welcome to Dynamic Digital World
 excerpt: Dynamic Digital World is your on stop place for news stories
 author: Luke
