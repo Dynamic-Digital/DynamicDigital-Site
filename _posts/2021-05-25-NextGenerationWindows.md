@@ -4,6 +4,7 @@ date: 2021-05-25
 author: Luke
 layout: single
 excerpt: The next generation of Windows is coming
+classes: wide
 ---
 
 In recent months Microsoft has been silent on it's plans for Windows in 2021, in fact the only news we've heard from Microsoft directly is that the Windows 10 May 2021 update has been released and that Windows 10X is cancelled. However, this drought is now over and Satya Nadella teased that a massive overhaul is coming soon, calling it "one of the most significant updates to windows in the past decade". Here is his full quote:

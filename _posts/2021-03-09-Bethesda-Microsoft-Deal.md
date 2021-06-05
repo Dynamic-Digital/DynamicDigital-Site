@@ -3,6 +3,7 @@ title: Microsoft's purchase of Bethesda's parent company Zenimax has been approv
 layout: single
 author: Luke C
 excerpt: Microsoft has now purchased Bethesda
+classes: wide
 ---
 
 On February 8th  the EU officially announced that they are allowing Microsoft to purchase Zenimax, parent company of Bethesda, with no concessions. This means that Microsoft can now officially complete their purchase of Zenimax with no need to worry at all about the purchase breaching competition guidelines.

@@ -5,6 +5,7 @@ author: Luke
 layout: single
 date: 2020-10-09
 tags: Gaming Xbox Microsoft
+classes: wide
 ---
 
 <img src="\assets\images\Xbox Series X.png" style="width: 100%">

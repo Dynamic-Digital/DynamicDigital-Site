@@ -4,6 +4,7 @@ author: Luke C
 excerpt: Android 12 is bringing some major changes to the user experience
 layout: single
 tags: Google
+classes: wide
 ---
 
 <figure>

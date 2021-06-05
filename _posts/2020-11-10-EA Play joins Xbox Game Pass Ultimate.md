@@ -5,6 +5,7 @@ excerpt: EA Play is now included in Xbox Game Pass Ultimate
 author: Luke
 layout: single
 tags: Gaming Xbox Microsoft EA
+classes: wide
 ---
 
 ![](\assets\images\EA%20Play%20Game%20Pass.png)

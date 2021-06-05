@@ -5,6 +5,7 @@ layout: single
 author: Luke
 date: 2021-05-26
 tags: Gaming Microsoft Bethesda Xbox E3
+classes: wide
 ---
 
 <img src="\assets\images\XboxE3Horizontal.png">

@@ -5,6 +5,7 @@ excerpt: EA Play joins XGP Ultimate on November 10th 2020
 layout: single
 date: 2020-11-07
 tags: Gaming Xbox Microsoft EA
+classes: wide
 ---
 
 ![](\assets\images\EA%20Play%20Game%20Pass.png)

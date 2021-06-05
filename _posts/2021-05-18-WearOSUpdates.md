@@ -4,6 +4,7 @@ title: Google announces a new update for Wear OS
 excerpt: Google is making the most of it's purchase of fitbit by partnering with Samsung
 layout: single
 date: 2021-05-18
+classes: wide
 ---
 
 Google just had it's IO Developer Conference and it's announced a massive upgrade to Wear OS, in fact Google calls it the "biggest update to wear OS update ever." This is not an overstatement. The new Wear OS is built with a massive partnership from Samsung. Today they both announced that they are combining their own platform, Tizen OS, into Wear OS to make one OS for all android devices.

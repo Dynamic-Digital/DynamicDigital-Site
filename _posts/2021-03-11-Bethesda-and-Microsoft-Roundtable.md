@@ -3,6 +3,7 @@ title: Microsoft and Bethesda Roundtable event roundup
 layout: single
 author: Luke C
 excerpt: Microsoft and Bethesda have officially started to plan what they will do together
+classes: wide
 ---
 
 Xbox and Bethesda have held a roundtable talk to discuss the future of the teams together. On Tuesday of this week it was officially confirmed that Xbox and Bethesda would officially be merging to forge the future of gaming on the xbox platform; in this roundtable it was officially confirmed that multiple games will be coming to Xbox Game Pass tomorrow and that some games in the future will be exclusive to Xbox and PC.

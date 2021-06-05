@@ -3,6 +3,7 @@ title: 20 Bethesda games are headed to Game Pass
 layout: single
 author: Luke C
 excerpt: More Bethesda games are coming to Game Pass
+classes: wide
 ---
 
 Today Xbox and Bethesda announced that 20 new games will be coming to Xbox Game Pass on March 12th. This announcement follows the closing of the Xbox aquisition of Bethesda on March 8th of this year. These games come from some of Bethesda's most iconic franchises including Elder Scrolls and Fallout.

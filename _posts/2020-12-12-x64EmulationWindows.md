@@ -4,6 +4,7 @@ excerpt: Only 10 days late
 author: luke
 layout: single
 tags: Windows Microsoft
+classes: wide
 ---
 
 At the end of September, Microsoft announced their plans to bring full x64 app emulation to Windows on ARM computers in November of this year which... went as well as expected. As with most windows updates this one was also delayed but it was only by a small amount of time and it's good to see this much needed update come sooner rather than later.

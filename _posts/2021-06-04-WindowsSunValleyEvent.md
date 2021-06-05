@@ -5,6 +5,7 @@ layout: single
 categories: Windows Microsoft
 date: 2021-06-05
 author: Luke
+classes: wide
 ---
 
 On June 2nd, Microsoft announced that they would be holding an event on June 24th to reveal "the next generation of Windows". This is rumoured to be when Microsoft will reveal the long rumoured "Sun Valley" update which is expected to be a sweeping change to the Windows user interface that's releasing later this year.

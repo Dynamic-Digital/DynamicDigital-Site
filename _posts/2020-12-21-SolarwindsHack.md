@@ -4,6 +4,7 @@ excerpt: Solarwinds, a leader in network infrastructure, has been hacked
 author: luke
 layout: single
 tags: Technology Hacking
+classes: wide
 ---
 
 SolarWinds, one of the world leaders in network infrastructure, has been hacked and data of some of the worlds biggest companies has been compromised. Not to mention that various departments of the US government have also been affected possibly leaving highly classified information in the hands of Russia.
