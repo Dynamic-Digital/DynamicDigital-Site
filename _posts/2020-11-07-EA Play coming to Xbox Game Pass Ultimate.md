@@ -7,7 +7,7 @@ date: 2020-11-07
 tags: Gaming Xbox Microsoft EA
 ---
 
-![](\assets\Images\EA%20Play%20Game%20Pass.png)
+![](\assets\images\EA%20Play%20Game%20Pass.png)
 
 Earlier this week Microsoft announced the EA Play (previously EA Access) will be joining the Xbox Game Pass (XGP) Ultimate for no extra cost on November 10th allowing access to 88 titles in EA’s library. When this is combined with the fact that you already get access to over 100 games outside of the EA library on both PC and Xbox as well as Xbox live Gold and it shows that Xbox Game Pass Ultimate might just be the best deal in gaming.
 

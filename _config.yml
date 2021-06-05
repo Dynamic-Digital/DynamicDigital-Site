@@ -16,7 +16,7 @@
 title: Dynamic Digital
 email: luke@dynamicdigitalworld.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Dynamic Digital is a news, software and gaming company. 
+  Dynamic Digital is a news, software and game development company. 
   We are driven by an instinct to provide our customers
   with the best experience that we can and listening to
   our customers to see what they want us to improve upon.
@@ -33,6 +33,25 @@ remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
+
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - day
+    - categories
+    - tags
+  layout: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

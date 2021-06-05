@@ -8,6 +8,8 @@ layout: splash
 
 Welcome to Dynamic Digital
 
-![alt text](/assets/images/logos/Dynamic Digital.png "Dynamic Digital Logo")
+![Dynamic Digital Logo](/assets/images/logos/Dynamic Digital.png "Dynamic Digital Logo")
 
 {{ site.description }}
+
+

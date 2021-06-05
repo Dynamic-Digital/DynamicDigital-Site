@@ -7,7 +7,7 @@ layout: single
 tags: Gaming Xbox Microsoft EA
 ---
 
-![](\assets\Images\EA%20Play%20Game%20Pass.png)
+![](\assets\images\EA%20Play%20Game%20Pass.png)
 
 EA Play has joined Xbox Game Pass (XGP) Ultimate today, coinciding with the release of the new Xbox Series X and S and giving access to 90 more games in the XGP Ultimate service. This means that anyone with a XGP Ultimate subscription can access and download some of the latest and greatest games in EA's library including Jedi: Fallen Order which was added to the Play List today as part of the Xbox Launch.
 

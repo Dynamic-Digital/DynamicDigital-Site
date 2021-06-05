@@ -7,7 +7,7 @@ tags: Google
 ---
 
 <figure>
-<img src="\assets\Images\Android 12 overview.jpeg" alt="Android 12 Overview" style="width:100%">
+<img src="\assets\images\Android 12 overview.jpeg" alt="Android 12 Overview" style="width:100%">
 <figcaption align = "center"><b>Image: Google</b></figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Google just announced the new features for Android 12 and it's going to be a mas
 Let's start with the new Material You, this is an evolution of the latest Material Design 2 that's now able to adapt to a users specific preferences. It allows a user to choose a brand new colour palette in settings and then that colour palette will be applied across all of the apps on their device that support this new system. This is a great new feature for users but it's a pain for developers depending on how Google decides to implement it, if it's just a small change that Flutter and Android Studio automatically adapt to in an update then it could be seemless, however, if it requires a major rewrite of current apps then it may take developers a while to catch up if they do at all.
 
 <figure>
-<img src="\assets\Images\WidgetsGoogle.png" alt="New Widgets" style="width:100%">
+<img src="\assets\images\WidgetsGoogle.png" alt="New Widgets" style="width:100%">
 <figcaption align = "center"><b>Image: Google</b></figcaption>
 </figure>
 

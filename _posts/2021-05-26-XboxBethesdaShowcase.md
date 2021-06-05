@@ -7,7 +7,7 @@ date: 2021-05-26
 tags: Gaming Microsoft Bethesda Xbox E3
 ---
 
-<img src="\assets\Images\XboxE3Horizontal.png">
+<img src="\assets\images\XboxE3Horizontal.png">
 
 Microsoft has officially announced that they are holding their E3 showcase on Sunday, June 13th at 6pm BST. This is going to be their first games showcase since acquiring Bethesda in March of this year and it should be interesting to see what they will be announcing. Xbox shared the news on their Twitter Account.
 

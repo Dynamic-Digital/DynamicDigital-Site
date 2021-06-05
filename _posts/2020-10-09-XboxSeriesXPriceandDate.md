@@ -7,7 +7,7 @@ date: 2020-10-09
 tags: Gaming Xbox Microsoft
 ---
 
-<img src="\assets\Images\Xbox Series X.png" style="width: 100%">
+<img src="\assets\images\Xbox Series X.png" style="width: 100%">
 
 Microsoft has just announced the Xbox Series X Price and it’s quite less then previously reported at just £450 GBP or $500 USD and it launches on November 10th. Previously we had been hearing it would be about $600 or more but this is much more reasonable and exactly matches the prices of the previous Xbox One X which makes this feel more the direct replacement it’s meant to be.
 
@@ -17,7 +17,7 @@ The Xbox Series X has the best specs I have ever seen in a console except for th
 
 The new Console also supports ray tracing which is a lighting effect that allows for light to be reflected off of objects in games at much higher detail and accuracy. This can be seen in the photos of the Minecraft raytracing demo. As you can see in the images below the difference between ray tracing on and off is night and day and in my opinion makes the game look much better then it has previously and I can’t wait to give it a try at some point.
 
-<img src="\assets\Images\Minecraft Raytracing(1).png" style="width: 45%; padding-right: 5%"><img src="\assets\Images\Minecraft Raytracing(2).png" style="width: 45%;">
+<img src="\assets\images\Minecraft Raytracing(1).png" style="width: 45%; padding-right: 5%"><img src="\assets\images\Minecraft Raytracing(2).png" style="width: 45%;">
 
 The form factor of the console has caused some conflict and is commonly being referred to as a refrigerator by consumers when they see it even though its still small enough to fit in your average entertainment centre. Either way I personally think it looks impressive as a new console and would love to have one in my gaming room to replace my original Xbox One.
 
