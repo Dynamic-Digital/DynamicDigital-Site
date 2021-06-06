@@ -33,6 +33,9 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
 
+atom_feed:
+  path: "news.dynamicdigitalworld.co.uk/feed.xml/"
+
 category_archive:
   type: liquid
   path: /categories/
