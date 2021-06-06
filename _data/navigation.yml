@@ -1,5 +1,5 @@
 main:
   - title: "Home"
-    url: "/"
+    url: "https://www.dynamicdigitalworld.co.uk"
   - title: "News"
-    url: "/news/"
+    url: "https://news.dynamicdigitalworld.co.uk"
