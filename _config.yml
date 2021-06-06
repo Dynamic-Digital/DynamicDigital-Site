@@ -34,7 +34,7 @@ plugins:
   - jekyll-include-cache
 
 atom_feed:
-  path: "news.dynamicdigitalworld.co.uk/feed.xml/"
+  path: "https://news.dynamicdigitalworld.co.uk/feed.xml/"
 
 category_archive:
   type: liquid
