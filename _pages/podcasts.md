@@ -21,7 +21,7 @@ header:
 
 ---
 
-We aim to bring the latest news straight to our viewers as soon as possible. Our aim is bring you unbiased news with no specific preference for one company or another. To do this we have four different podcasts. 
+We aim to bring the latest news straight to our viewers as soon as possible. Our aim is to bring you unbiased news with no specific preference for one company or another. To do this we have four different podcasts. 
 
 Dynamic Digital World is our main podcast that covers all the latest technology news from all companies with no specific interest in one company or another. 
 
