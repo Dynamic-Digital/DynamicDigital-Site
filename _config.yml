@@ -32,11 +32,21 @@ remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
   - jekyll-sitemap
 
-atom_feed:
-  path: "https://news.dynamicdigitalworld.co.uk/feed.xml"
+include: ["_pages"]
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      share: true
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
