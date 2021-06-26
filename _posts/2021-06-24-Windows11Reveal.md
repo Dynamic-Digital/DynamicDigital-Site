@@ -55,6 +55,18 @@ The changes to the taskbar make sense when considering the design of the new sta
 
 The search panel in Windows 11 has also been redesigned and is no longer integrated with cortana and instead just shows the most relevant search results. This is a welcome redesign from the previous search which would generally show users irrelevant answers and had a generally annoying interface, at least in my opinion, so this is a very welcome change.
 
+### Widgets
+
+![Windows 11 widgets](/assets/Press Kits/Microsoft/Windows 11/press-pack/Windows 11 Product Images/Windows 11 Widgets Screen.png)
+
+Widgets are also being brought into Windows 11. These are not the old gadgets from Windows 7 however, instead these widgets will be brought in from the left hand side of the screen when the widgets button is pressed on the taskbar. When opened users are presented with widgets such as calendar or weather widget. these are able to be customized by the user. There are also news stories which are based of the users interests. This is basically a redesign of the News and Interests feed in Windows 10.
+
+### Microsoft Teams integration
+
+![Microsoft Teams integration](/assets/Press Kits/Microsoft/Windows 11/press-pack/Windows 11 Product Images/Windows 11 Teams Integration Screen.png)
+
+Microsoft teams will also be integrated into the taskbar for Windows 11, this will mean that users will be able to quickly start meetings and that they'll also be able to search through their recent chat messages without having to open up the whole teams application.
+
 ## Multitasking
 
 ### Task View
@@ -90,6 +102,8 @@ There are also curated stories and collections which are very similar to the sto
 The new store also allows developers to publish traditional desktop applications, UWP and PWA applications to the store so that users can download any app they want from one place, this allows users to discover new apps in one safe and reliable store without the risk of finding these applications on the web.
 
 However, this does not mean that Windows users now have to use the store to find applications and it also doesn't mean that developers have to give up some of their revenue. In fact it means the opposite, the new store is probably the most open commerce platform I have seen on any operating system in recent years because developers no longer have to use Microsoft's commerce platform for sales on the Windows store and can instead bring over their own commerce platform to the store and not pay Microsoft any part of their sales revenue.
+
+This new revenue changes only apply to apps. All games will have to use Microsoft's revenue system.
 
 [Learn more about policy changes for developers here](https://news.dynamicdigitalworld.co.uk/2021/06/25/Windows11Developers.html)
 
@@ -129,9 +143,6 @@ I'll update this article with more information when I have a chance to test the 
 
 Finally, the new Xbox application that has been available for users to test in Windows 10 is being integrated into the Operating System by default. The new application is also home to Xbox Game Pass for PC and Xbox Cloud Gaming for Windows, this allows users to access and download games from xbox Game Pass directly on their PC.
 
-## Other features
-
-There are also lots of other features including Microsoft Teams integration and Widgets on the home screen.
 
 ## Windows 11 Release Date and System Requirements
 
