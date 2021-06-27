@@ -48,6 +48,14 @@ defaults:
       share: true
       related: true
 
+# analytics settings
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-K753RQ0V2X"
+    anonymize_ip: false # default
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
