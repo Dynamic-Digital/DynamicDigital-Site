@@ -56,6 +56,15 @@ analytics:
     tracking_id: "G-K753RQ0V2X"
     anonymize_ip: false # default
 
+# footer links
+
+footer:
+  links:
+    - label: "Privacy Policy"
+      url: "/Privacy Policy/Dynamic Digital Privacy Policy.pdf"
+    - label: "Opt Out of Tracking (Google)"
+      url: "https://tools.google.com/dlpage/gaoptout/"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
