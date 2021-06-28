@@ -25,3 +25,9 @@ The categories for settings are now on the left hand side of the application, wh
 The file explorer has also been redesigned with a new, more modern user interface that brings the explorer more inline with design ideas introduced later during Windows 10 and allow to easily fit in with the rest of the Windows 11 interface.
 
 There are also new context menus in file explorer that app developers will be able to interface with directly, allowing them to offer options to users directly from the file explorer.
+
+## Notification Centre and Quick settings
+
+The Notification Centre and Quick Settings areas have also been redesigned to make them more modern and easier to use with touch without compromising the keyboard and mouse experience.
+
+The Notification Center shows notifications and a calendar view while the Quick Settings area shows common PC Settings such as Volume, Bluetooth and Wi-Fi. Above the quick Settings area there is a new media controls area which allows users to control media playback through Edge or other applications.
