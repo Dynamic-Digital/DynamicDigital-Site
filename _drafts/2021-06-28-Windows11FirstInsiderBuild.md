@@ -8,4 +8,10 @@ tags:
 
 ---
 
-# 
+## The new Store
+
+## The new Settings application
+
+## The new file explorer
+
+## Smaller and less intrusive updates
