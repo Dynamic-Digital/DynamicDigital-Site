@@ -8,9 +8,9 @@ tags:
 date: 2021-06-28 18:00:00 Europe/London
 ---
 
-Today the Australian Competition and Consumer Commission has released a statement urging parent's to keep AirTag's away from children because it is apparently too easy to remove the battery. This comes after the product was removed from an australian retailers shelves earlier this year due to safety concerns.
+Today the Australian Competition and Consumer Commission has released a statement urging parents to keep AirTags away from children because it is apparently too easy to remove the battery. This comes after the product was removed from an australian retailers shelves earlier this year due to safety concerns.
 
-In a statement to press earlier today the ACCC Deputy Chair delia rickard said, "We were also concerned that the outer product packaging does not have any warning about the presence and dangers of button batteries, and we note that Apple has now added a warning label to the AirTag’s packaging. However, this alone does not address our fundamental concerns about children being able to access the button batteries in these devices."
+In a statement to press earlier today the ACCC Deputy Chair Delia Rickard said, "We were also concerned that the outer product packaging does not have any warning about the presence and dangers of button batteries, and we note that Apple has now added a warning label to the AirTag’s packaging. However, this alone does not address our fundamental concerns about children being able to access the button batteries in these devices."
 
 The ACCC says that whilst they do acknowledge the Apple says the Airtag is "designed to meet international child safety standards", but the ACCC says that the AirtTag still poses safety concerns because a charm is made even if the battery cover is replaced incorrectly. Whilst this chime is not meant to say if the cover is placed correctly and just lets the consumer know the AirTag has turned on it could still seem to the user that the cover is placed correctly from the sound.
 
