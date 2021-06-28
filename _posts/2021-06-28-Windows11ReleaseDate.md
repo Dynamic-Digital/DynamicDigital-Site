@@ -1,6 +1,7 @@
 ---
 title: Microsoft may have hidden the Windows 11 release date in promotional images
 excerpt: This may be the best easter egg yet
+layout: single
 header:
     overlay_image: "/assets/Press Kits/Microsoft/Windows 11/press-pack/Windows 11 Brand Images/Hero Bloom + Logo.png"
     overlay_filter: 0.6
