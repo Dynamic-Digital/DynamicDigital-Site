@@ -10,8 +10,9 @@ tags:
 
 ## The new Store
 
+The new Windows Store has a much nicer design, it works faster then the old design and even includes traditional Windows apps. This is the biggest change to the store
+
 ## The new Settings application
 
 ## The new file explorer
 
-## Smaller and less intrusive updates
