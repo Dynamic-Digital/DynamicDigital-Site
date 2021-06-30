@@ -44,6 +44,7 @@ defaults:
       type: posts
     values:
       layout: single
+      comments: true
       read_time: true
       share: true
       related: true
@@ -55,6 +56,13 @@ analytics:
   google:
     tracking_id: "G-K753RQ0V2X"
     anonymize_ip: false # default
+
+# comment settings
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "dynamic-digital"
 
 # footer links
 
