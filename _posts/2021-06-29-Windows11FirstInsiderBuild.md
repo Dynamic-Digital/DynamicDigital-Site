@@ -24,6 +24,13 @@ The new Windows Store has a much nicer design, it works faster then the old desi
 
 The new design of the Microsoft Store is much cleaner and much simpler to navigate. The application categories have been moved over to the left hand side of the screen and the search bar has been expanded across the top. This allows users to easily access search in the store without the user having to wait for the old search bar to expand.
 
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="https://contextual.media.net/dmedianet.js?cid=8CU861TJ8" async="async"></script>
+
 ## The new Settings application
 
 ![Settings](/assets/images/Windows11/Settings.jpg)
@@ -45,6 +52,13 @@ There are also new context menus in file explorer that app developers will be ab
 The Notification Centre and Quick Settings areas have also been redesigned to make them more modern and easier to use with touch without compromising the keyboard and mouse experience.
 
 The Notification Centre shows notifications and a calendar view while the Quick Settings area shows common PC Settings such as Volume, Bluetooth and Wi-Fi. Above the quick Settings area there is a new media controls area which allows users to control media playback through Edge or other applications.
+
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="https://contextual.media.net/dmedianet.js?cid=8CU861TJ8" async="async"></script>
 
 ## Other features
 
