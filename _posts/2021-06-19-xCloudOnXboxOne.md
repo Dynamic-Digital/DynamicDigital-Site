@@ -3,6 +3,7 @@ title: Microsoft is bringing Xbox Cloud Gaming to Xbox One
 excerpt: Keep hold of your old Xbox One
 author: Luke Court
 date: 2021-06-19
+classes: wide
 ---
 
 <img src="/assets/gifs/Xbox/XboxCloudGaming.gif" alt="Xbox Cloud Gaming" width="100%"/>
