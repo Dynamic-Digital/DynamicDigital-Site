@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We have a simple goal to provide the best experience
   we can for our customers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.dynamicdigitalworld.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lj-court.github.io/Main-Site/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "LJ-Court.github.io/main-site"
 
 # Build settings
