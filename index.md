@@ -11,4 +11,3 @@ layout: splash
 
 {{ site.description }}
 
-
