@@ -7,17 +7,6 @@ header:
     overlay_filter: 0.8
 ---
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : '46d5890314c0a9c83bdbe13e384619bf',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.variouscreativeformats.com/46d5890314c0a9c83bdbe13e384619bf/invoke.js"></scr' + 'ipt>');
-</script>
-
 The Indian Government has filed a lawsuit against Twitter after they failed to comply with new laws regarding how social media companies need to conduct themselves. Originally reported by Reuters and Techcrunch, India's IT Ministry has told the New Delhi High Courtthat the company's refusal to comply with the provisions of the IT Act. 
 
 India's new laws in regards to IT became effective at the end of May and are aimed at regulating content shown by social media companies. The new laws require companies to remove content within 36 hours of recieving a legal order. They also require companies assist in probes or other cyber security-related incidents within 72 hours, they also have to remove any post showing an individual in a sexual act within 24 hours. Other requirements include appointing a chief complience officer, a grievence officer and a contact person who responds to law enforcement requests 24 hours a day.
