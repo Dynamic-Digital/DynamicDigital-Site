@@ -27,6 +27,7 @@ url: "https://lj-court.github.io/Main-Site/" # the base hostname & protocol for 
 repository: "LJ-Court.github.io/main-site"
 
 # Build settings
+search: true
 timezone: Europe/London
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
