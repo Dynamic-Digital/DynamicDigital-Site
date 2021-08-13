@@ -9,7 +9,6 @@ toc: true
 ---
 
 ## Galaxy Unpacked
-![Overview Slides GIF](/assets/gifs/Samsung/GalaxyUnpackedAugust2021Overview.GIF)
 
 Samsung held their Galaxy Unpacked presentation on 11th August 2021 and they announced a lot of new devices. They announced 2 new foldables, the Z Flip3 and the Z Fold3, the Galaxy Watch4 series, the first wearables being released with Wear OS 3, and the Galaxy Buds 2, an upgrade over the Galaxy Buds+ which now includes Active Noise Cancelling and Ambient Sound.
 
