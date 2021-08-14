@@ -30,4 +30,4 @@ However, these policy changes only effect applications, games will still have to
 
 Overall, these changes are very positive for developers and consumers alike because it means that consumers can download applications from a source that is guaranteed to be safe and it also means the developers can put their application on the store regardless of how they implement payment processing and how they choose to package their app.
 
-[If you would like to learn more about Windows 11 read this story](https://news.dynamicdigitalworld.co.uk/2021/06/24/Windows11Reveal.html)
+[If you would like to learn more about Windows 11 read this story](https://www.dynamicdigitalworld.co.uk/2021/06/24/Windows11Reveal.html)

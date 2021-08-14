@@ -105,7 +105,7 @@ However, this does not mean that Windows users now have to use the store to find
 
 This new revenue changes only apply to apps. All games will have to use Microsoft's revenue system.
 
-[Learn more about policy changes for developers here](https://news.dynamicdigitalworld.co.uk/2021/06/25/Windows11Developers.html)
+[Learn more about policy changes for developers here](https://www.dynamicdigitalworld.co.uk/2021/06/25/Windows11Developers.html)
 
 ### Android Applications
 
@@ -115,7 +115,7 @@ This new revenue changes only apply to apps. All games will have to use Microsof
 
 It's also been announced that the Amazon Marketplace, Amazon's app store for android, will be integrated into the Windows Store. This allows users to download and run android applications on their Windows computer. However, due to the use of the Amazon Marketplace instead of the Google Play Store users may have to purchase certain applications a second time if they have purchased them through the Play Store instead of the Amazon Marketplace.
 
-[It has also been confirmed that Android apps will be able to be sideloaded](https://news.dynamicdigitalworld.co.uk/2021/06/25/Windows11SideloadAndroidApps.html)
+[It has also been confirmed that Android apps will be able to be sideloaded](https://www.dynamicdigitalworld.co.uk/2021/06/25/Windows11SideloadAndroidApps.html)
 
 This is an incredible feature for users who would like to use Android apps on their PC but it will take independant testing to see how performance compares to a standard android device.
 
