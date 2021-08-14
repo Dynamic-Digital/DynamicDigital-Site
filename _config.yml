@@ -70,7 +70,9 @@ comments:
 footer:
   links:
     - label: "Privacy Policy"
-      url: "/Privacy Policy/Dynamic Digital Privacy Policy.pdf"
+      url: "/privacy.html"
+    - label: "Cookies Policy"
+      url: "/cookies.html"
     - label: "Opt Out of Tracking (Google)"
       url: "https://tools.google.com/dlpage/gaoptout/"
 
