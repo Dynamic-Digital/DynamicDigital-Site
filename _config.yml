@@ -65,6 +65,11 @@ comments:
   disqus:
     shortname: "dynamic-digital"
 
+# archive settings
+tag_archive:
+  type: liquid
+  path: /tags/
+
 # footer links
 
 footer:
