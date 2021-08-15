@@ -5,6 +5,10 @@ author: Luke Court
 header:
     overlay_image: "/assets/images/NestHub.jpg"
     overlay_filter: 0.7
+tags:
+    - Google
+    - Sonos
+    - Patent Infringement
 ---
 
 In January 2020, Sonos sued Google over patent infringement. On August 13th 2021, the U.S. International Trade Commission issued a preliminary ruling finding that Google infringed on five patents.
