@@ -1,6 +1,6 @@
 ---
 title: Preliminary Ruling says Google violated Sonos' patents
-excerpt: They apparently violated 5 patents
+excerpt: They apparently violated 5 patents according to the I.T.C.
 author: Luke Court
 header:
     overlay_image: "/assets/images/NestHub.jpg"
