@@ -2,6 +2,7 @@
 title: "COD: Vanguard will be revealed on August 19th"
 excerpt: Vanguard will be revealed in Warzone later this week
 author: Luke Court
+date: 2021-08-16 21:38:00
 tags:
     - Gaming
     - Call Of Duty
