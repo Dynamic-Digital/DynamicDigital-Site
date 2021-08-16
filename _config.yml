@@ -73,6 +73,7 @@ tag_archive:
 # feed settings
 feed:
   posts_limit: 100
+  tags: true
 
 # footer links
 
