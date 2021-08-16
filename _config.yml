@@ -70,6 +70,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# feed settings
+feed:
+  posts_limit: 100
+
 # footer links
 
 footer:
