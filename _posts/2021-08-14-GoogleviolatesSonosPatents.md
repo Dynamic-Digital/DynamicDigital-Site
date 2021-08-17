@@ -8,6 +8,7 @@ header:
 tags:
     - Google
     - Sonos
+    - Technology
     - Patent Infringement
 ---
 

@@ -8,6 +8,7 @@ tags:
   - Microsoft
   - Windows
   - Windows 11
+  - Technology
 
 
 header:

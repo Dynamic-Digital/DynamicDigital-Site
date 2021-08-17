@@ -3,6 +3,8 @@ title: Nintendo Switch (OLED model) will be released on October 8th for £309.99
 excerpt: It's not what we thought it would be, but that's because it doesn't need to be.
 date: 2021-07-06 18:40:00
 classes: wide
+tags:
+    - Technology
 header:
     overlay_image: "/assets/images/Nintendo/OLEDSwitchWhite.jpg"
     overlay_filter: 0.7

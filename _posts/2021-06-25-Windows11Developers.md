@@ -5,6 +5,7 @@ author: Luke Court
 classes: wide
 tags:
     - Microsoft
+    - Technology
     - Development
     - Windows
     - Windows 11

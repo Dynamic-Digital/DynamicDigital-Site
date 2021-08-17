@@ -2,6 +2,8 @@
 title: Samsung Galaxy Unpacked 2021 breakdown
 excerpt: Samsung released 2 new phones, 2 watches and upgraded galaxy buds
 date: 2021-08-12
+tags:
+    - Technology
 header:
     overlay_image: "assets/Press Kits/Samsung/Galaxy Unpacked August 2021/Galaxy_Z_Fold3,_Z_Flip3_Main_KV(5G).jpg"
     overlay_filter: 0.7

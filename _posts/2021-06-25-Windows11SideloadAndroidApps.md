@@ -6,6 +6,7 @@ tags:
     - Microsoft
     - Windows
     - Windows 11
+    - Technology
 ---
 
 ![Android app running on Windows](/assets/Press Kits/Microsoft/Windows 11/press-pack/Microsoft Store Images/Store_Image 4.png)
