@@ -2,14 +2,6 @@
   "name": "dynamicdigitalwebsite",
   "version": "1.0.0",
   "description": "Website for Dynamic Digital",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dynamic-Digital/Main-Site.git"
-  },
   "author": "Luke Court",
   "license": "ISC",
   "bugs": {
