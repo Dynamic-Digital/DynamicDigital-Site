@@ -32,7 +32,7 @@ An example of this can be seen in the new live translate feature which allows pe
 
 ## Camera
 
-![early 2020](\assets\Press Kits\Google\Pixel 6 Assets\35-new-pixel-6-camera-drive.jpg)
+![Pixel Camera Overview](\assets\Press Kits\Google\Pixel 6 Assets\35-new-pixel-6-camera-drive.jpg)
 ###### Credit: Google
 
 Pixel devices have always had incredibly impressive photo quality and this year is supposedly no different. Both the Pixel 6 and Pixel 6 Pro have a new 1/1.3 inch sensor on the back which also captures 150% more light in comparison to the Pixel 5. This allows for greater detail and colour as well as better capture with Night Sight. They also have a new ultrawide lens allowing for even more people to be in your shot.
@@ -60,4 +60,10 @@ The Phone app on Google Pixel 6 and Pixel 6 pro allow users to see the supposed 
 
 ![Direct My Call](\assets\Press Kits\Google\Pixel 6 Assets\Pixel6-Direct-My-Call.gif)
 
-Direct My Call allows users to pay less attention when going through
+Direct My Call allows users to pay less attention when going through automated calling systems by automatically transcribing what is said and displaying it on screen in a list that people can then choose from.
+
+Once a user chooses an option Pixel will stay on hold for them whilst they do something else and then let the user know when a human representative picks up the phone.
+
+## Overview
+
+The Google Pixel 6 and Pixel 6 pro are much better than the Pixel 5, especially when considering the fairly big upgrade to both the camera and the processor. 
