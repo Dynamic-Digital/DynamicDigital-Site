@@ -19,7 +19,9 @@ The pricing of these new flagships is surprisingly low with the Google Pixel 6 s
 
 The new Tensor Processor from google has been developed specifically for machine learning on Pixel according to Google.
 
-It supposedly provides the Pixel 6 and Pixel 6 Pro with up to 80% faster performance compared to the Pixel 5 from last year which ran a Qualcomm Snapdragon 765G. It also provides a new security core and more efficient battery usage.
+It supposedly provides the Pixel 6 and Pixel 6 Pro with up to 80% faster performance compared to the Pixel 5 from last year which ran a Qualcomm Snapdragon 765G, this puts it at around the same performance as the Snapdragon 888 that has powered the latest 2020 smartphones but it may mean that Google's latest Pixel is slightly behind next years flagships. I guess we will find out next year.
+
+There is also a new security core within the Google Tensor which will allow for greater on device security features to help users maintain their privacy while using their device, however, we'll have to wait and see how this may affect the development of custom roms for Pixel devices in the future.
 
 ![Google Tensor Layout](/assets/Press Kits/Google/Pixel 6 Assets/21-google-tensor-drive.jpg)
 ###### Credit: Google
