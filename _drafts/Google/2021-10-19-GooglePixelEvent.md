@@ -60,10 +60,12 @@ The Phone app on Google Pixel 6 and Pixel 6 pro allow users to see the supposed 
 
 ![Direct My Call](\assets\Press Kits\Google\Pixel 6 Assets\Pixel6-Direct-My-Call.gif)
 
-Direct My Call allows users to pay less attention when going through automated calling systems by automatically transcribing what is said and displaying it on screen in a list that people can then choose from.
+Direct My Call allows users to pay less attention when going through automated calling systems by automatically transcribing what is said and displaying it on screen in a list that people can then choose from. This also means that when users are listening to menu options they no longer need to remember which number to dial for each option as it will be available for them to see on screen.
 
 Once a user chooses an option Pixel will stay on hold for them whilst they do something else and then let the user know when a human representative picks up the phone.
 
 ## Overview
 
-The Google Pixel 6 and Pixel 6 pro are much better than the Pixel 5, especially when considering the fairly big upgrade to both the camera and the processor. 
+The Google Pixel 6 and Pixel 6 pro are much better than the Pixel 5, especially when considering the fairly big upgrade to both the camera and the processor. These new devices are also some of the most powerful Android handsets to be released this year and they come at some of the most affordable prices for new flagships that we have seen this year.
+
+These new devices are available for pre-order now and will be generally released on October 25 from most major US and UK carriers.
