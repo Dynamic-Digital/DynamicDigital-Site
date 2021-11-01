@@ -5,6 +5,13 @@
   data-website-uuid="5bccbc93-398e-459e-a9ec-4e634915b198"
   >
 </script>
+<link rel="manifest" href="/manifest.json">
+
+<script type="module">
+  import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+  const el = document.createElement('pwa-update');
+  document.body.appendChild(el);
+</script>
 <button
   class="termly-cookie-preference-button"
   type="button"

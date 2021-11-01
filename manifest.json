@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "Dynamic Digital is a news, software and game development company.  We are driven by an instinct to provide our customers with the best experience that we can and listening to our customers to see what they want us to improve upon. We have a simple goal to provide the best experience we can for our customers.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Dynamic Digital",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Dynamic Digital",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
