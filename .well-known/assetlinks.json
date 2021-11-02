@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "uk.co.dynamicdigitalworld.twa",
+                     "sha256_cert_fingerprints": ["0B:0D:AA:C7:12:F4:7E:C4:DC:57:F5:84:51:CE:4C:D6:5E:7E:A2:8D:94:7A:DC:F8:36:99:5F:1F:E8:01:D8:56"] }
+      }
+]
