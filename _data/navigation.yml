@@ -5,3 +5,5 @@ main:
     url: "/news/"
   - title: "Podcasts"
     url: "/podcasts/"
+  - title: "Contact Us"
+    url: "/contact/"
