@@ -35,6 +35,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-archives
 
 include: ["_pages"]
 
@@ -49,6 +50,24 @@ defaults:
       read_time: true
       share: true
       related: true
+
+# category settings
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # analytics settings
 
