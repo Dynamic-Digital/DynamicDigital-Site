@@ -1,11 +1,13 @@
 ---
 title: Google Pixel 6 and Pixel 6 Pro reveal
-excerpt: "Google held their pixel 6 reveal event yesterday, here is everything that was announced. Credit: Google"
+excerpt: "Google held their pixel 6 reveal event yesterday, here is everything
+  that was announced. Credit: Google"
 author: Luke Court
 width: full
 header:
-    overlay_image: /assets/Press Kits/Google/Pixel 6 Assets/41-lets-recap-drive.jpg
-    overlay_filter: 0.5
+  overlay_image: /assets/Press Kits/Google/Pixel 6 Assets/41-lets-recap-drive.jpg
+  overlay_filter: 0.5
+date: 2021-12-04T07:32:37.660Z
 ---
 
 The Google Pixel 6 and Pixel 6 pro have finally been officially revealed after months of teasers, leaks, and pre-reveals. They are Google's first true flagship Pixel devices and they're powered by Google's first processor called Tensor, let's get into the details and what this could mean for Pixel devices in the future.
