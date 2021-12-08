@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Microsoft adds faster syncing to OneDrive on M1 Macs
 excerpt: The update is also coming to Windows on Arm devices
 date: 2021-12-08T11:48:07.619Z
