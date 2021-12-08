@@ -1,7 +1,12 @@
 ---
-layout: single
+layout: post
 title: Bowser agrees to $10 million fine for selling Nintendo Switch hacks
 excerpt: Bowser's punishment has arrived
+header: >-
+  overlay_image:
+  "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+
+  overlay_filter: 0.7
 date: 2021-12-08T12:22:27.424Z
 ---
 Hacker Gary Bowser has agreed to pay $10 million to settle the piracy charges Nintendo have levied against him in a recent lawsuit. Bowser is a member of the Team Xecuter group who have created mods for and jailbroken the Nintendo Switch, 3DS, NES Classic and other consoles.
