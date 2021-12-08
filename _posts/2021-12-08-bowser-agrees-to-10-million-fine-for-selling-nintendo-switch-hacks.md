@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bowser agrees to $10 million fine for selling Nintendo Switch hacks
 excerpt: Bowser's punishment has arrived
 date: 2021-12-08T12:22:27.424Z
