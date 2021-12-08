@@ -1,6 +1,6 @@
 ---
 title: Microsoft Announces Xbox Series X Price and Release Date
-excerpt: microsoft has announced the price and release date of the Xbox Series X
+excerpt: Microsoft has announced the price and release date of the Xbox Series X
 author: Luke
 layout: single
 date: 2020-10-09
