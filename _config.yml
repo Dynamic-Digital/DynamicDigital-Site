@@ -27,6 +27,8 @@ url: "https://www.dynamicdigitalworld.co.uk" # the base hostname & protocol for 
 repository: "LJ-Court.github.io/main-site"
 
 # Build settings
+search: true
+search_provider: "google"
 google:
   search_engine_id: b79dce6f7aace4b19
 markdown: kramdown
