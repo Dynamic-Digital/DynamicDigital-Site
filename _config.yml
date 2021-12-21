@@ -64,7 +64,7 @@ jekyll-archives:
     - tags
   layouts:
     category: archive-taxonomy
-    tag: archive-taxonomy
+    tag: tag
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
