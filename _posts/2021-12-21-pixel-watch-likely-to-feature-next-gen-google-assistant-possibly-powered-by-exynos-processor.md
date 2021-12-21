@@ -2,7 +2,7 @@
 layout: single
 title: "'Pixel Watch' likely to feature next-gen Google Assistant, possibly
   powered by Exynos processor"
-excerpt: "This story was first reported by 9to5Google. Image Credit: "
+excerpt: This story was first reported by 9to5Google.
 header:
     overlay_image: https://images.unsplash.com/photo-1553545204-4f7d339aa06a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1093&q=80
     overlay_filter: 0.7
