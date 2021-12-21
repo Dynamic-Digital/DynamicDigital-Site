@@ -105,8 +105,6 @@ footer:
       url: "/privacy.html"
     - label: "Cookies Policy"
       url: "/cookies.html"
-    - label: "Opt Out of Tracking (Google)"
-      url: "https://tools.google.com/dlpage/gaoptout/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
