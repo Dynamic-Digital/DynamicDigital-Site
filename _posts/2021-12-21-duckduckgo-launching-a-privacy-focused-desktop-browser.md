@@ -7,6 +7,9 @@ header:
    overlay_filter: 0.7
 date: 2021-12-21T17:20:14.622Z
 ---
+
+![DuckDuckGo Desktop Browser](https://pbs.twimg.com/media/FHIVM_1WQBAWTkL?format=png&name=medium)
+
 DuckDuckGo has officially announced that they are building a desktop version of their browse in a new post on their [blog](https://spreadprivacy.com/duckduckgo-2021-review/). The new browser will supposedly focus on privacy and have no 'levels' of privacy or complicated settings. The browser is supposedly going to allow privacy protection for "search, browsing, email, and more".
 
 According to their CEO Gabriel Weinberg the application will have some of the most popular features their mobile app including the Fire Button which allows users to delete all of their data with the click of a single button without any exception. The application also supposedly has a simple and clean user-interface to make using it easy for everyone.
