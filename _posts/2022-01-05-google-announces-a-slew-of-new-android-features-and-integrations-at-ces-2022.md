@@ -3,9 +3,7 @@ layout: single
 title: Google Announces a Slew of new Android features and integrations at CES 2022
 excerpt: Google is creating it's own ecosystem similar to Apple's
 header:
-  code: >-
-    overlay_image:
-    "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z29vZ2xlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    overlay_image: "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z29vZ2xlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
 
     overlay_filter: 0.7
 date: 2022-01-05T18:36:02.536Z
