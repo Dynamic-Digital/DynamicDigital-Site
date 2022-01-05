@@ -12,4 +12,6 @@ date: 2022-01-05T18:36:02.536Z
 ---
 Google has announced major new features coming to Android, Chromebooks, Wearables and more during 2022. These were announced during CES 2022 in a blog post after Google pulled their physical presence due to concerns over COVID-19.
 
-## 
+## Android and Chrome OS
+
+![Pixel Chromebook onboarding](/assets/Press Kits/Google/CES 2022/1._Quick_setup_Chrome_OS_to_Android.gif)
