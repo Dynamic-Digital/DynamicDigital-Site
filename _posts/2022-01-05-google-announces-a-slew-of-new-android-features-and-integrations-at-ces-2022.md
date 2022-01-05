@@ -29,6 +29,17 @@ Google also announced that they will be bringing improvements to phone hub on Ch
 
 ![Android Wear OS unlock](/assets/Press Kits/Google/CES 2022\3._Wear_OS_unlock_Android_1_KkvQpdi.gif)
 
-Google also announced that in the next few months people will be able to use their Wear OS devices to unlock their Chromebooks and Android phone or tablet when their close by. They also revealed that phones with Ultra Wideband technology will be able to unlock their car without even needing to be taken out of peoples pockets and that people will be able to share their car keys with family and friends. 
+Google have announced that in the next few months people will be able to use their Wear OS devices to unlock their Chromebooks and Android phone or tablet when their close by. They also revealed that phones with Ultra Wideband technology will be able to unlock their car without even needing to be taken out of peoples pockets and that people will be able to share their car keys with family and friends. 
 
 ![Pixel 6 car unlock](/assets/Press Kits/Google/CES 2022/4._Digital_car_key.gif)
+
+### Sharing Media across devices
+
+Back in 2021, Apple announced that they would be making it possible for people to connect their Airpods to multiple Apple devices and have them switch between devices when an audio source is detected on one of the other devices. Today, Google announced that they are building a similar experience for android which will work between devices from multiple manufacturers such as Samsung and others, they are also bringing spatial audio to supported devices, These features will be available on supported devices in the next few months. Google also announced that fast pair enabled devices will be able to connect to Google TV or Android TV devices.
+
+## Android on other ecosystems
+
+### matter enabled devices
+![Matter fast setup](/assets\Press Kits\Google\CES 2022\2._Fast_Pair_Matter-enabled_devices.gif)
+
+In preparation for the release of the matter smart home standard in mid 2022 Google has announced that you'll be able to use fast pair to connect to matter-enabled devices within your home. This new setup process will also allow users to connect their matter enabled devices to Google Home and all accompanying applications much quicker and with much less effort.
