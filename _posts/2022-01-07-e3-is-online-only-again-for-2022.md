@@ -3,7 +3,6 @@ layout: single
 title: E3 is online only again for 2022
 excerpt: It's now been three years since the last in person event
 header:
-  code: |-
     overlay_image: /assets/images/E3-News-May6.jpg
     overlay_filter: 0.7
 date: 2022-01-06T21:39:12.122Z
