@@ -21,5 +21,10 @@
     }
     
     
+  ],
+  "url_handlers": [
+    {
+        "origin": "https://www.dynamicdigitalworld.co.uk"
+    }
   ]
 }
