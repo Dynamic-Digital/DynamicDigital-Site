@@ -18,13 +18,21 @@
     {
       "src": "/assets/512x512 icon.png",
       "sizes": "512x512"
-    }
-    
-    
+    } 
   ],
   "url_handlers": [
     {
         "origin": "https://www.dynamicdigitalworld.co.uk"
+    }
+  ],
+  "shortcuts" : [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "News",
+      "url": "/news"
     }
   ]
 }
