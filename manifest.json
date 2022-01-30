@@ -332,131 +332,131 @@
         "sizes": "256x256"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-512-512.png",
+        "src": "/assets/AppIcons/android/android-launchericon-512-512.png",
         "sizes": "512x512"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-192-192.png",
+        "src": "/assets/AppIcons/android/android-launchericon-192-192.png",
         "sizes": "192x192"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-144-144.png",
+        "src": "/assets/AppIcons/android/android-launchericon-144-144.png",
         "sizes": "144x144"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-96-96.png",
+        "src": "/assets/AppIcons/android/android-launchericon-96-96.png",
         "sizes": "96x96"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-72-72.png",
+        "src": "/assets/AppIcons/android/android-launchericon-72-72.png",
         "sizes": "72x72"
       },
       {
-        "src": "/assets/AppIcons/androidandroid-launchericon-48-48.png",
+        "src": "/assets/AppIcons/android/android-launchericon-48-48.png",
         "sizes": "48x48"
       },
       {
-        "src": "/assets/AppIcons/ios16.png",
+        "src": "/assets/AppIcons/ios/16.png",
         "sizes": "16x16"
       },
       {
-        "src": "/assets/AppIcons/ios20.png",
+        "src": "/assets/AppIcons/ios/20.png",
         "sizes": "20x20"
       },
       {
-        "src": "/assets/AppIcons/ios29.png",
+        "src": "/assets/AppIcons/ios/29.png",
         "sizes": "29x29"
       },
       {
-        "src": "/assets/AppIcons/ios32.png",
+        "src": "/assets/AppIcons/ios/32.png",
         "sizes": "32x32"
       },
       {
-        "src": "/assets/AppIcons/ios40.png",
+        "src": "/assets/AppIcons/ios/40.png",
         "sizes": "40x40"
       },
       {
-        "src": "/assets/AppIcons/ios50.png",
+        "src": "/assets/AppIcons/ios/50.png",
         "sizes": "50x50"
       },
       {
-        "src": "/assets/AppIcons/ios57.png",
+        "src": "/assets/AppIcons/ios/57.png",
         "sizes": "57x57"
       },
       {
-        "src": "/assets/AppIcons/ios58.png",
+        "src": "/assets/AppIcons/ios/58.png",
         "sizes": "58x58"
       },
       {
-        "src": "/assets/AppIcons/ios60.png",
+        "src": "/assets/AppIcons/ios/60.png",
         "sizes": "60x60"
       },
       {
-        "src": "/assets/AppIcons/ios64.png",
+        "src": "/assets/AppIcons/ios/64.png",
         "sizes": "64x64"
       },
       {
-        "src": "/assets/AppIcons/ios72.png",
+        "src": "/assets/AppIcons/ios/72.png",
         "sizes": "72x72"
       },
       {
-        "src": "/assets/AppIcons/ios76.png",
+        "src": "/assets/AppIcons/ios/76.png",
         "sizes": "76x76"
       },
       {
-        "src": "/assets/AppIcons/ios80.png",
+        "src": "/assets/AppIcons/ios/80.png",
         "sizes": "80x80"
       },
       {
-        "src": "/assets/AppIcons/ios87.png",
+        "src": "/assets/AppIcons/ios/87.png",
         "sizes": "87x87"
       },
       {
-        "src": "/assets/AppIcons/ios100.png",
+        "src": "/assets/AppIcons/ios/100.png",
         "sizes": "100x100"
       },
       {
-        "src": "/assets/AppIcons/ios114.png",
+        "src": "/assets/AppIcons/ios/114.png",
         "sizes": "114x114"
       },
       {
-        "src": "/assets/AppIcons/ios120.png",
+        "src": "/assets/AppIcons/ios/120.png",
         "sizes": "120x120"
       },
       {
-        "src": "/assets/AppIcons/ios128.png",
+        "src": "/assets/AppIcons/ios/128.png",
         "sizes": "128x128"
       },
       {
-        "src": "/assets/AppIcons/ios144.png",
+        "src": "/assets/AppIcons/ios/144.png",
         "sizes": "144x144"
       },
       {
-        "src": "/assets/AppIcons/ios152.png",
+        "src": "/assets/AppIcons/ios/152.png",
         "sizes": "152x152"
       },
       {
-        "src": "/assets/AppIcons/ios167.png",
+        "src": "/assets/AppIcons/ios/167.png",
         "sizes": "167x167"
       },
       {
-        "src": "/assets/AppIcons/ios180.png",
+        "src": "/assets/AppIcons/ios/180.png",
         "sizes": "180x180"
       },
       {
-        "src": "/assets/AppIcons/ios192.png",
+        "src": "/assets/AppIcons/ios/192.png",
         "sizes": "192x192"
       },
       {
-        "src": "/assets/AppIcons/ios256.png",
+        "src": "/assets/AppIcons/ios/256.png",
         "sizes": "256x256"
       },
       {
-        "src": "/assets/AppIcons/ios512.png",
+        "src": "/assets/AppIcons/ios/512.png",
         "sizes": "512x512"
       },
       {
-        "src": "/assets/AppIcons/ios1024.png",
+        "src": "/assets/AppIcons/ios/1024.png",
         "sizes": "1024x1024"
       }
     ],
