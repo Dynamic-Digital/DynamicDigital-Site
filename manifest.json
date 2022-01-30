@@ -33,6 +33,10 @@
     {
       "name": "News",
       "url": "/news"
+    },
+    {
+      "name": "Podcasts",
+      "url": "/podcasts"
     }
   ]
 }
