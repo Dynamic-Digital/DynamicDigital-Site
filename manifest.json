@@ -7,6 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Dynamic Digital",
+  "id": "/",
   "start_url": "/",
   "theme_color": "#252a34",
   "icons": [
