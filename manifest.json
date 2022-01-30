@@ -29,17 +29,17 @@
     {
       "name": "Home",
       "url": "/",
-      "icons": "/favicon.ico"
+      "icon": "/favicon.ico"
     },
     {
       "name": "News",
       "url": "/news",
-      "icons": "/favicon.ico"
+      "icon": "/favicon.ico"
     },
     {
       "name": "Podcasts",
       "url": "/podcasts",
-      "icons": "/favicon.ico"
+      "icon": "/favicon.ico"
     }
   ]
 }
