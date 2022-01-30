@@ -28,15 +28,18 @@
   "shortcuts" : [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/",
+      "icons": "/favicon.ico"
     },
     {
       "name": "News",
-      "url": "/news"
+      "url": "/news",
+      "icons": "/favicon.ico"
     },
     {
       "name": "Podcasts",
-      "url": "/podcasts"
+      "url": "/podcasts",
+      "icons": "/favicon.ico"
     }
   ]
 }
