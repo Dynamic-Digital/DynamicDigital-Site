@@ -469,17 +469,17 @@
     {
       "name": "Home",
       "url": "/",
-      "icon": "/favicon.ico"
+      "icon": "/assets/AppIcons/windows11/SmallTile.scale-125.png"
     },
     {
       "name": "News",
       "url": "/news",
-      "icon": "/favicon.ico"
+      "icon": "/assets/AppIcons/windows11/SmallTile.scale-125.png"
     },
     {
       "name": "Podcasts",
       "url": "/podcasts",
-      "icon": "/favicon.ico"
+      "icon": "/assets/AppIcons/windows11/SmallTile.scale-125.png"
     }
   ]
 }
