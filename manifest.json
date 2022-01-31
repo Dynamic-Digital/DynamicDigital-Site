@@ -469,17 +469,29 @@
     {
       "name": "Home",
       "url": "/",
-      "icon": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+      "icons": [
+        {
+        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+        }
+      ]
     },
     {
       "name": "News",
       "url": "/news",
-      "icon": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+      "icons": [
+        {
+        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+        }
+      ]
     },
     {
       "name": "Podcasts",
       "url": "/podcasts",
-      "icon": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+      "icons": [
+        {
+        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
+        }
+      ]
     }
   ]
 }
