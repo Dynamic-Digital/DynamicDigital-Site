@@ -468,30 +468,15 @@
   "shortcuts" : [
     {
       "name": "Home",
-      "url": "/",
-      "icons": [
-        {
-        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
-        }
-      ]
+      "url": "/"
     },
     {
       "name": "News",
-      "url": "/news",
-      "icons": [
-        {
-        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
-        }
-      ]
+      "url": "/news"
     },
     {
       "name": "Podcasts",
-      "url": "/podcasts",
-      "icons": [
-        {
-        "src": "/assets/AppIcons/windows11/Square44x44Logo.altform-unplated_targetsize-96.ico"
-        }
-      ]
+      "url": "/podcasts"
     }
   ]
 }
