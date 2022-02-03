@@ -3,8 +3,8 @@ backend:
   branch: main
 media_folder: 'assets'
 publish_mode: editorial_workflow
-site_url: "https://www.dynamicdigitalworld.co.uk"
-logo_url: "https://www.dynamicdigitalworld.co.uk/assets/AppIcons/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png"
+site_url: https://www.dynamicdigitalworld.co.uk
+logo_url: https://www.dynamicdigitalworld.co.uk/favicon.ico
 collections:
   - name: 'blog'
     label: 'Blog'
