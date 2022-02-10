@@ -25,7 +25,9 @@ As for performance we still have to wait and see how these phones compare to oth
 
 The Galaxy S22 Ultra marks a major departure from previous top end models in the Galaxy S series as it's the first device in the series to incorporate an S-Pen storage silo and come with an S-Pen in the box, much like the Note series used to before it. It also has a more boxed off design compared to the traditionally rounded design given to previous S series devices and a vastly different camera design style when compared to its sibling devices the S22 and S22+ as the cameras are part of the back of the device instead of being part of a separate camera bump on the device.
 
-As for specs the S22 Ultra comes with the same processors as the S22 and S22+ but offers options for up to 12GB of RAM and 1TB Storage, a 5,000 mAh battery, 12MP Ultra-Wide camera, 108 MP Wide camera, and two 10MP Telephoto cameras: one with a 3x Optical Zoom and 36-degree field of view and the second with a 10x optical zoom and an 11-degree field of view. The Ultra also comes with a 6.8-inch Edge QHD+ display with a maximum brightness of 1,750nit and a maximum refresh rate of 120Hz.
+As for specs the S22 Ultra comes with the same processors as the S22 and S22+ but offers options for up to 12GB of RAM and 1TB Storage, a 5,000mAh battery, 12MP Ultra-Wide camera, 108 MP Wide camera, and two 10MP Telephoto cameras: one with a 3x Optical Zoom and 36-degree field of view and the second with a 10x optical zoom and an 11-degree field of view. The Ultra also comes with a 6.8-inch Edge QHD+ display with a maximum brightness of 1,750nit and a maximum refresh rate of 120Hz.
+
+With the Galaxy S22 Ultra now incorporating most of the incredible features from the old note series it is unfortunately now time to say goodbye to the beloved lineup of phablet devices and it's time to say hello to the new era of foldables taking the place of Samsung's experimental flagship device lineup. Only time will tell if the Galaxy S22 Ultra can live up to the Notes prowess but for now we just have to accept that the time of the Note is over.
 
 ## Pricing and availability
 
