@@ -3,6 +3,8 @@ backend:
   branch: main
 media_folder: 'assets'
 publish_mode: editorial_workflow
+site_url: https://www.dynamicdigitalworld.co.uk
+logo_url: https://www.dynamicdigitalworld.co.uk/favicon.ico
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -15,6 +17,6 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'single' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
-      - { label: 'Header', name: 'header', widget: 'code' }
+      - { label: 'Header', name: 'header', widget: 'code', required: false, output_code_only: true, default_language: "yaml" }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
