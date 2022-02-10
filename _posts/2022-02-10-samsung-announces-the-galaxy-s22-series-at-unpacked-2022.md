@@ -2,7 +2,6 @@
 layout: single
 title: Samsung Announces the Galaxy S22 Series at Unpacked 2022
 excerpt: The Note is dead.
-header: >-
   overlay_image: "/assets/Press Kits/Samsung/Galaxy Unpacked February
   2022/Samsung_Galaxy-S22-Ultra.jpg"
 
