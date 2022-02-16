@@ -3,7 +3,7 @@ layout: single
 title: CloudReady is now Chrome OS Flex
 excerpt: Chrome OS's first official expansion away from pre-built devices
 header:
-  overlay_image: assets\Press Kits\Google\Chrome_OS_Flex\Chrome_OS_Flex_Header.png
+  overlay_image: \assets\Press Kits\Google\Chrome_OS_Flex\Chrome_OS_Flex_Header.png
   overlay_filter: 0.7
 date: 2022-02-15T18:02:52.785Z
 ---
