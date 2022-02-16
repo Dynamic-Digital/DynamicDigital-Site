@@ -3,7 +3,7 @@ layout: single
 title: CloudReady is now Chrome OS Flex
 excerpt: Chrome OS's first official expansion away from pre-built devices
 header:
-  overlay_image: \assets\Press Kits\Google\Chrome_OS_Flex\Chrome_OS_Flex_Header.png
+  overlay_image: "/assets/Press Kits/Google/Chrome_OS_Flex/Chrome_OS_Flex_Header.png"
   overlay_filter: 0.7
 date: 2022-02-15T18:02:52.785Z
 ---
@@ -26,8 +26,6 @@ The Minimum Specifications are below:
 >     **Note:** Intel GMA 500, 600, 3600, and 3650 graphics hardware do not meet Chrome OS Flex performance standards.
 >
 > <!--EndFragment-->
-
-
 
 Much like many Linux distros today, Chrome OS Flex can be tried from a USB Stick first before being fully installed on someone's device which would allow users to make sure that they are sure they want to go ahead with installing the operating system. It works on any Intel or AMD Mac or Windows PC, but it doesn't support ARM meaning that users of Apple Silicon devices are left out for now.
 
