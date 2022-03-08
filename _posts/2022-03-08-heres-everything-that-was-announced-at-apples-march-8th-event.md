@@ -2,6 +2,10 @@
 layout: single
 title: Here's everything that was announced at Apple's March 8th Event
 excerpt: A new Mac, iPhone, iPad and more
+header:
+  overlay_image: /assets/PeekPerformance.png
+  overlay_filter: 0.7
+ 
 date: 2022-03-08T19:00:15.727Z
 ---
 On the March 8th, 2022, Apple held their "peak performance" event where they officially announced the new iPad Air, Mac Studio, iPhone SE, and Apple Studio Display. They also announced... The event was pre-recorded due to the Covid-19 Pandemic
