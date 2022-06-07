@@ -21,8 +21,7 @@ collections:
           name: 'header', 
           widget: 'list', 
           fields: 
-            - {label: 'Image URL', name: 'overlay_image', widget: 'overlay_image'}, 
-          required: false }
-      - { label: 'Tags', name: 'tags', widget: 'markdown', required: false }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+            - {label: 'Image URL', name: 'overlay_image', widget: 'overlay_image', required: false }
+            - { label: 'Tags', name: 'tags', widget: 'markdown', required: false }
+            - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+            - { label: 'Body', name: 'body', widget: 'markdown' }
