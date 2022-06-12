@@ -2,6 +2,9 @@
 layout: single
 title: Xbox & Bethesda 2022 Showcase Roundup
 excerpt: Let the games begin.
+header:
+  overlay_image: /assets/Press Kits/Microsoft/ShowcaseGamesLineup_Inline-148e5839300bc3746d04.webp
+  overlay_filter: 0.7
 date: 2022-06-12T17:01:06.270Z
 ---
 The Xbox and Bethesda Games Showcase 2022 has shown us a plethora of new games, with all of them coming to Game Pass on Day one. Look below to find out more.
