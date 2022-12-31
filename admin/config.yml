@@ -17,6 +17,12 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'string', default: 'single' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - label: 'Header' 
+        name: 'header'
+        widget: 'object'
+        fields:
+          - { label: 'image', name: 'overlay_image', widget: 'string', default: '/assets/' , hint: 'full path of image, upload image in the media panel BEFORE adding file path, or leave to Luke C'}
+          - { label: 'Overlay Filter - DO NOT CHANGE', name: 'overlay_filter', widget: 'number', value_type: 'float', default: 0.7, min: 0, max: 1, step: 0.1}
       - { label: 'Tags', name: 'tags', widget: 'markdown', required: false }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
