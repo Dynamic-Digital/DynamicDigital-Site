@@ -5,6 +5,7 @@ excerpt: All the latest news on the Microsoft's Activision Acquisition
 header:
   overlay_image: /assets/activisionmicrosoftdealheroimage.webp
   overlay_filter: 0.7
+classes: wide
 date: 2023-04-19T16:37:25.069Z
 ---
 Xbox has been in the process of purchasing Activision Blizzard since January 2022. The deal would mean that Microsoft would have control over games such as Overwatch, Crash Bandicoot, Tony Hawk, and of course Call of Duty. The last one has been the biggest point of contention with PlayStation as they have suggested that Microsoft would be willing to do anything to harm PlayStation and other competitors. The complaints range from accusing Microsoft of releasing a worse version of Call of Duty on PlayStation to Microsoft refusing to put Call of Duty on PlayStation and making it an Xbox exclusive.
