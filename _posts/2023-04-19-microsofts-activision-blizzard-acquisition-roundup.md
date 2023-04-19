@@ -3,7 +3,7 @@ layout: single
 title: Microsoft's Activision Blizzard Acquisition Roundup
 excerpt: All the latest news on the Microsoft's Activision Acquisition
 header:
-  overlay_image: /assets/
+  overlay_image: /assets/activisionmicrosoftdealheroimage.webp
   overlay_filter: 0.7
 date: 2023-04-19T16:37:25.069Z
 ---
