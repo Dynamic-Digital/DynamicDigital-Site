@@ -1,1 +1,3 @@
-Main Site
+Main Site for Dynamic Digital
+
+© Dynamic Digital
